@@ -4,7 +4,7 @@ import numpy as np
 import cv2
 
 # Load the trained TensorFlow Object Detection model
-model_path = "/content/fine_tuned_ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8"
+model_path = "fine_tuned_ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8"
 model = tf.saved_model.load(model_path)
 
 # Define the input and output signatures of the model
