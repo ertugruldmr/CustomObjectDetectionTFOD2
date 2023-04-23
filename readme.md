@@ -15,8 +15,8 @@
 - (A) [__Brief__](#brief)
   - [__Project__](#project)
   - [__Data__](#data)
-  - [__Demo__](#demo) -> [Live Demo]()
-  - [__Study__](#problemgoal-and-solving-approach) -> [Colab]()
+  - [__Demo__](#demo) -> [Live Demo](https://ertugruldemir-customobjectdetectiontfod2.hf.space)
+  - [__Study__](#problemgoal-and-solving-approach) -> [Colab](https://colab.research.google.com/drive/1APGmivgM0v6Pwl5D8ptLdIwMaXutgz8t)
   - [__Results__](#results)
 - (B) [__Detailed__](#Details)
   - [__Abstract__](#abstract)
@@ -45,16 +45,16 @@
   <table>
     <tr>
     <td>
-        <a target="_blank" href="" height="30"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30">[Demo app] HF Space</a>
+        <a target="_blank" href="https://ertugruldemir-customobjectdetectiontfod2.hf.space" height="30"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30">[Demo app] HF Space</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/18ZKfjtuWeI9eSwzdYkhRBUjfGXnqgtv1#scrollTo=p1KlES7FzMkA"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
+        <a target="_blank" href="https://github.com/ertugruldmr/CustomObjectDetectionTFOD2/blob/main/study.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
       </td>
     <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/1APGmivgM0v6Pwl5D8ptLdIwMaXutgz8t"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
       </td>
     </tr>
   </table>
@@ -64,11 +64,11 @@
 - Description
     -  __Detects covid mask__ from images.
     - __Usage__: Set the feature values through sliding the radio buttons then use the button to predict.
-- Embedded [Demo]() window from HuggingFace Space
+- Embedded [Demo](https://ertugruldemir-customobjectdetectiontfod2.hf.space) window from HuggingFace Space
     
 
 <iframe
-	src=""
+	src="https://ertugruldemir-customobjectdetectiontfod2.hf.space"
 	frameborder="0"
 	width="850"
 	height="450"
@@ -207,7 +207,7 @@ The project aimed segmentating the pets using deep learning model architecture. 
     - Usage: upload or select the image for detecting then use the button to predict.
   - Demo
     - The demo app in the demo_app folder as an individual project. All the requirements and dependencies are in there. You can run it anywhere if you install the requirements.txt.
-    - You can find the live demo as huggingface space in this [demo link]() as full web page or you can also us the [embedded demo widget](#demo)  in this document.  
+    - You can find the live demo as huggingface space in this [demo link](https://ertugruldemir-customobjectdetectiontfod2.hf.space) as full web page or you can also us the [embedded demo widget](#demo)  in this document.  
     
 ## License
 - This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
