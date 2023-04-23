@@ -26,8 +26,6 @@
     - [__(C) Modelling__](#e-modelling)
     - [__(D) Deployment as web demo app__](#g-deployment-as-web-demo-app)
   - [__Licance__](#license)
-  - [__Connection Links__](#connection-links)
-  - NOTE: The model file exceeded limitations. you can download it from this [link]().
 
 ## __Brief__ 
 
