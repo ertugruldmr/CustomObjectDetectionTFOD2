@@ -26,7 +26,7 @@
     - [__(C) Modelling__](#e-modelling)
     - [__(D) Deployment as web demo app__](#g-deployment-as-web-demo-app)
   - [__Licance__](#license)
-
+  - [__Connection Links__](#connection-links)
 ## __Brief__ 
 
 ### __Project__ 
